@@ -1,7 +1,7 @@
 # Smoking-competition-from-kaggle
 Machine Learning - kaggle competition
 
-Wstęp
+# Wstęp
 To wydarzenie konkursowe na platformie Kaggle skupia się na tworzeniu modeli predykcyjnych, które mają identyfikować status palenia tytoniu u osób na podstawie sygnałów biologicznych. Aby poradzić sobie z tym wyzwaniem, utworzono propozycje modeli uczenia maszynowego za pomocą LazyPredict w celu wyodrębnienia najefektywniejszego modelu, który przewidywałby to, czy osoba jest paląca, czy nie. Poniżej zostaną przedstawione części kodu oraz ich opis. Implementacja algorytmów oraz pełna analiza znajduje się w osobym pliku.
 
 
